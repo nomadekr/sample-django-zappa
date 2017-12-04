@@ -1,0 +1,6 @@
+django<2
+pillow
+djangorestframework
+zappa
+zappa-django-utils
+
